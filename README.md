@@ -42,4 +42,6 @@ ConverterError: See console for info.
 
 2020-05-16 17:48:30.917845: F tensorflow/lite/toco/tooling_util.cc:627] Check failed: dim >= 1 (-1 vs. 1)
 
+
+--------------------------------
 Any method to solve this error?
