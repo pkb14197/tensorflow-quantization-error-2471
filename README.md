@@ -17,9 +17,7 @@ error as below
 
 ConverterError: See console for info.
 2020-05-16 17:48:30.914124: I tensorflow/lite/toco/import_tensorflow.cc:1324] Converting unsupported operation: FusedBatchNormV3
-
 2020-05-16 17:48:30.914668: E tensorflow/core/framework/op_kernel.cc:1325] OpKernel ('op: "WrapDatasetVariant" device_type: "CPU"') for unknown op: WrapDatasetVariant
-
 2020-05-16 17:48:30.914953: E tensorflow/core/framework/op_kernel.cc:1325] OpKernel ('op: "WrapDatasetVariant" device_type: "GPU" host_memory_arg: "input_handle" host_memory_arg: "output_handle"') for unknown op: WrapDatasetVariant
 
 2020-05-16 17:48:30.915355: E tensorflow/core/framework/op_kernel.cc:1325] OpKernel ('op: "UnwrapDatasetVariant" device_type: "CPU"') for unknown op: UnwrapDatasetVariant
